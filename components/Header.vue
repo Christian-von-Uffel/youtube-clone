@@ -36,7 +36,7 @@
                 </button>
             </div>
         </div>
-        <div class="flex items-center gap-4 py-2 pb-3">
+        <div class="flex items-center gap-4 py-2 pb-3 overflow-x-auto">
             <button class="rounded-full text-sm py-1 px-3 bg-white hover:bg-gray-300 text-gray-700 hover:bg-gray-600 border border-gray-500 transition duration-150">
                 All
             </button>
