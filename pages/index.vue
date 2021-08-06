@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <div>
+    <Header/>
+    <VideoGrid />
+  </div>
 </template>
 
 <script>
