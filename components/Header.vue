@@ -5,8 +5,8 @@
             <img src="Logo.png" alt="logo" class="h-6">
             
             <!-- search bar -->
-            <form action="">
-                <input type="text" placeholder="Search" class="w-[42vw] bg-black font-light py-1 px-4">
+            <form action="" class="hidden md:block">
+                <input type="text" placeholder="Search" class="lg:w-[42vw] bg-black font-light py-1 px-4">
                 <button class="bg-gray-700 py-1 px-6 rounded-r-sm">
                     O
                 </button>
